@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				77,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RedIdle"
+		},
+		{
+			"offsets": [
+				141,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RedLeft"
+		},
+		{
+			"offsets": [
+				26,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RedDown"
+		},
+		{
+			"offsets": [
+				20,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RedUp"
+		},
+		{
+			"offsets": [
+				-47,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RedRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red/Glitchy_Red_Assets_angrybitch",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-glitchy-red-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		115,
+		115
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "RedIdle"
+		},
+		{
+			"offsets": [
+				113,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RedLeft"
+		},
+		{
+			"offsets": [
+				4,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RedDown"
+		},
+		{
+			"offsets": [
+				89,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RedUp"
+		},
+		{
+			"offsets": [
+				-50,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RedRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red/Glitchy_Red_Assets_elpepe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-glitchy-red",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		115,
+		115
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

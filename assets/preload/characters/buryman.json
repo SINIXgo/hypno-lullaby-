@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "buryman_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "buryman_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "buryman_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "buryman_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "buryman_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "buryman_laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "buryman_scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "buryman_scream",
+			"indices": [
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60
+			],
+			"fps": 24,
+			"anim": "agony",
+			"loop": true,
+			"name": "buryman_scream"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/buried/buryman_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "buried",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-1350,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 6.50000000000002
+}

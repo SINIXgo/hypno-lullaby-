@@ -1,0 +1,200 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF_Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF_Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF_Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF_Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF_Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				31
+			],
+			"anim": "what",
+			"fps": 24,
+			"name": "BF_AURGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF_Left Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				51
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF_Down Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-76
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF_Up Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF_Right Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "throw",
+			"fps": 24,
+			"name": "BF_Ball_Throw",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf/ba_BF_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		161,
+		166
+	],
+	"camera_position": [
+		-650,
+		-650
+	],
+	"sing_duration": 4,
+	"scale": 6.00000000000003
+}

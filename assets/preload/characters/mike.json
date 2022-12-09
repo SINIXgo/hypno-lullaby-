@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BRO IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BRO DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BRO UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BRO LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BRO RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mike/BRO_DEAD",
+	"position": [
+		800,
+		-690
+	],
+	"healthicon": "mike",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		143,
+		60
+	],
+	"camera_position": [
+		280,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

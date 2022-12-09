@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SR IDLE"
+		},
+		{
+			"offsets": [
+				54,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SR LEFT"
+		},
+		{
+			"offsets": [
+				14,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SR DOWN"
+		},
+		{
+			"offsets": [
+				14,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SR UP"
+		},
+		{
+			"offsets": [
+				-20,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SR RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/steven/steven_phase_2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven-evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		179,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

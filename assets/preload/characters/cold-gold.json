@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				8
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GOLD UP POSE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-32
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GOLD IDLE"
+		},
+		{
+			"offsets": [
+				47,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GOLD LEFT POSE"
+		},
+		{
+			"offsets": [
+				-97,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GOLD DOWN POSE"
+		},
+		{
+			"offsets": [
+				-71,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "GOLD RIGHT POSE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gold/Cold_Gold",
+	"position": [
+		-1240,
+		370
+	],
+	"healthicon": "cold-gold",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		216,
+		255
+	],
+	"camera_position": [
+		-700,
+		-400
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}
