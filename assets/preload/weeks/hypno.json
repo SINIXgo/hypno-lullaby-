@@ -1,0 +1,113 @@
+{
+	"storyName": "Hypno lol",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"FrostBite",
+			"red",
+			[
+				238,
+				94,
+				94
+			]
+		],
+		[
+			"Monochrome",
+			"gold",
+			[
+				2,
+				2,
+				2
+			]
+		],
+		[
+			"Isotope",
+			"glitchy-red",
+			[
+				169,
+				6,
+				6
+			]
+		],
+		[
+			"MissingNo",
+			"missingno",
+			[
+				122,
+				140,
+				149
+			]
+		],
+		[
+			"Brimstone",
+			"buried",
+			[
+				57,
+				223,
+				193
+			]
+		],
+		[
+			"death toll",
+			"beelze",
+			[
+				25,
+				50,
+				57
+			]
+		],
+		[
+			"cheated",
+			"steven",
+			[
+				255,
+				5,
+				5
+			]
+		],
+		[
+			"dissension",
+			"steven",
+			[
+				255,
+				5,
+				5
+			]
+		],
+		[
+			"Shinto",
+			"Shinto",
+			[
+				241,
+				231,
+				0
+			]
+		],
+		[
+			"Shitno",
+			"Shitno",
+			[
+				57,
+				55,
+				25
+			]
+		]
+	],
+	"weekCharacters": [
+		"boyfriend",
+		"girlfriend",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Hypno's Lullaby v2 Port"
+}
